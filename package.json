@@ -1,7 +1,7 @@
 {
     "name": "hashmateteam",
     "version": "0.1.0",
-    "homepage": "/hashmateteam.github.io/",
+    "homepage": "/dist/",
     "private": true,
     "scripts": {
         "serve": "vue-cli-service serve",
